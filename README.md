@@ -23,5 +23,5 @@
 
   ![LiloAndStitchStitchGIF](https://user-images.githubusercontent.com/90863429/190939666-67d157dd-f54b-49e0-98e7-7ae154d3113f.gif)
 
- https://www.linkedin.com/in/isabela-furriel-5630181ab
+ 
 </div>
