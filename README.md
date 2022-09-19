@@ -1,6 +1,7 @@
-### Olá, sou a isabela!👋
+### Olá, sou a isabela!💕                                          
+- 🔭 Atualmente estou cursando análise e desenvolvimento de sistema e estudando algumas linguagens de programação. 
 
-- 🔭 Atualmente estou cursando análise e desenvolvimento de sistema e procuro estudar algumas linguagens de programação. 
+
 <div align="center">
   <a href="https://github.com/isabelafurriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelafurriel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -18,10 +19,7 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/isabela-furriel-5630181ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/isabelafurriel/isabelafurriel/blob/output/github-contribution-grid-snake.svg)
-
-  ![LiloAndStitchStitchGIF](https://user-images.githubusercontent.com/90863429/190939666-67d157dd-f54b-49e0-98e7-7ae154d3113f.gif)
-
+  
+![LiloAndStitchStitchGIF](https://user-images.githubusercontent.com/90863429/190941234-3bf24b7b-4b52-47c8-864c-192745f02433.gif)
  
 </div>
