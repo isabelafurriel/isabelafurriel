@@ -12,14 +12,16 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Isa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 </div>
 
  ##
  
 <div> 
   <a href="https://www.linkedin.com/in/isabela-furriel-5630181ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![LiloAndStitchStitchGIF](https://user-images.githubusercontent.com/90863429/190941234-3bf24b7b-4b52-47c8-864c-192745f02433.gif)
+ </div>
  
-</div>
+<div>
+  <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/90863429/190941234-3bf24b7b-4b52-47c8-864c-192745f02433.gif">
+ </div>
+ 
+
