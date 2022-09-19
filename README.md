@@ -1,4 +1,4 @@
-### Hi there 👋
+###Olá👋
 
 <!--
 **isabelafurriel/isabelafurriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![StitchHiGIF](https://user-images.githubusercontent.com/90863429/190937126-1b2c37d6-e9d3-412d-b07a-02dda423be1b.gif)
+
