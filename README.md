@@ -20,8 +20,4 @@
   <a href="https://www.linkedin.com/in/isabela-furriel-5630181ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-<div>
-  <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/90863429/190941234-3bf24b7b-4b52-47c8-864c-192745f02433.gif">
- </div>
- 
 
