@@ -1,5 +1,5 @@
 ### Olá, sou a Isabela!💕                                          
-- 🔭 Tenho 24 anos, formei 2024 em Análise e Desenvolvimento de Sistema, já tive contato com linguagens como Java e PHP no período que cursei a graduação, estudo nos tempos vagos python atualmente;
+- 🔭 Tenho 24 anos, formei 2024 em Análise e Desenvolvimento de Sistema, já tive contato com linguagens como Java e PHP no período que cursei a graduação, estudo nos tempos vagos Python atualmente;
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
